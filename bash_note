@@ -1,0 +1,2 @@
+# add alias ssh shortcut.
+alias cluster-1="ssh yourid@cluster-1.address.com"
