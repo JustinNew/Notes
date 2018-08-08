@@ -21,3 +21,6 @@ Codes:
     - effects adjustments: regular patterns we wish to capture explicitly
       - holiday effects, seasonality effects, and day-of-week effects
       - Estimating holiday and seasonality effects is more art than science due to the paucity of relevant historical data
+
+## [A Collection Of Take Home Challenges](https://datamasked.com/)
+  - [A Solution Collection](https://github.com/JifuZhao/DS-Take-Home)
