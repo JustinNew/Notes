@@ -24,3 +24,5 @@ Codes:
 
 ## [A Collection Of Take Home Challenges](https://datamasked.com/)
   - [A Solution Collection](https://github.com/JifuZhao/DS-Take-Home)
+
+## [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
