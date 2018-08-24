@@ -7,6 +7,6 @@
 # Kill Background Process
   - ps -eaf | grep tkg8w58
 
-# Install PyCharm
+# [Install PyCharm](https://medium.com/@GalarnykMichael/setting-up-pycharm-with-anaconda-plus-installing-packages-windows-mac-db2b158bd8c)
   - Set anaconda python
   - $which conda to get the anaconda wd, then add the python interpeter
