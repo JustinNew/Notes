@@ -6,3 +6,7 @@
 
 # Kill Background Process
   - ps -eaf | grep tkg8w58
+
+# Install PyCharm
+  - Set anaconda python
+  - $which conda to get the anaconda wd, then add the python interpeter
