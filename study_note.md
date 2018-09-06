@@ -26,3 +26,5 @@ Codes:
   - [A Solution Collection](https://github.com/JifuZhao/DS-Take-Home)
 
 ## [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+
+## [Where to work as a Data Scientist](https://multithreaded.stitchfix.com/blog/2015/03/31/advice-for-data-scientists/)
