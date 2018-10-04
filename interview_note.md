@@ -7,7 +7,6 @@ During case interview, ask a lot of questions, ask questions to clean the proble
 *
 Do not be influenced by the passive interviwer.
 
-
 ## Interview Questions From My Experiences
 
 1. Why XGBoost always wins?
