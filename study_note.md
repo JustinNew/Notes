@@ -29,4 +29,6 @@ Codes:
 
 ## [Where to work as a Data Scientist](https://multithreaded.stitchfix.com/blog/2015/03/31/advice-for-data-scientists/)
 
-## [Product Sense](https://medium.com/stellarpeers)
+## Product Metrics / Product Analytics
+  - [Product Sense](https://medium.com/stellarpeers)
+  - [Product Analytics](https://www.youtube.com/watch?v=Ktuf1UFouTU) talk
