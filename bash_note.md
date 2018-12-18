@@ -16,3 +16,9 @@
   - Add
     - import os
     - os.environ['KMP_DUPLICATE_LIB_OK']='True'
+
+### Find line in files
+
+```sh
+grep -rnw '/path/to/somewhere/' -e 'pattern'
+```
