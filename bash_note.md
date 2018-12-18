@@ -22,3 +22,8 @@
 ```sh
 grep -rnw '/path/to/somewhere/' -e 'pattern'
 ```
+
+### && and ;
+
+  - In cmd1 && cmd2, cmd2 is only executed if cmd1 succeeds (returns 0).
+  - In cmd1 ; cmd2, cmd2 is executed in any case.
