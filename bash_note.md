@@ -45,3 +45,10 @@ Basically,
 # * * * * * command to execute
 ```
 
+### Alias for command
+ 
+  - Open ~/.bash_profle
+  - add 
+```sh
+alias customer_command='original_command'
+```
