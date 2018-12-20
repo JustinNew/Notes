@@ -27,3 +27,14 @@ grep -rnw '/path/to/somewhere/' -e 'pattern'
 
   - In cmd1 && cmd2, cmd2 is only executed if cmd1 succeeds (returns 0).
   - In cmd1 ; cmd2, cmd2 is executed in any case.
+
+### Cron Jobs
+
+  - [This link](https://www.ostechnix.com/a-beginners-guide-to-cron-jobs/) is useful.
+
+Basically,
+```sh
+# Minute(0-59) Hour(0-24) Day_of_month(1-31) Month(1-12) Day_of_week(0-6) Command_to_execute
+  * * * * * command to execute
+```
+
