@@ -1,7 +1,7 @@
 R Notes
 --
 
-### Pipe
+### [Pipe](https://uc-r.github.io/pipe)
 
   - The principal function provided by the magrittr package is %>%, or what’s called the “pipe” operator. This operator will forward a value, or the result of an expression, into the next function call/expression.
 Without **%>%,
