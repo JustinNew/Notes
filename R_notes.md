@@ -4,6 +4,7 @@ R Notes
 ### [Pipe](https://uc-r.github.io/pipe)
 
   - The principal function provided by the magrittr package is %>%, or what’s called the “pipe” operator. This operator will forward a value, or the result of an expression, into the next function call/expression.
+  - We read the %>% as “and then”.
 Without **%>%,
 ```R
 a <- filter(mtcars, carb > 1)
@@ -36,7 +37,10 @@ mtcars %>%
 ## 1     4   25.90
 ## 2     6   19.74
 ## 3     8   15.10
+
+## “take mtcars and then filter and then group by and then summarize and then arrange.”
 ```
+
 
   - For assignment magrittr provides the %<>% operator which allows you to replace code like:
 ```R
