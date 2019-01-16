@@ -51,3 +51,11 @@ with
 ```R
 mtcars %<>% transform(cyl = cyl * 2)
 ```
+
+### dataframe to list of lists
+```R
+nn <- nrow(xy.df)
+i <- 1
+l <- list()
+while(i <= nn) {l[[i]] <- as.list(xy.df[i,]); i <- i + 1}
+```
