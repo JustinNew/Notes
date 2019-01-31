@@ -34,3 +34,7 @@ Codes:
   - Product Analytics
     - Three examples of using analytics to find production problem [Youtube Talk](https://www.youtube.com/watch?v=Ktuf1UFouTU)
     - Different metrics to use to track your product health [Youtube Talk](https://www.youtube.com/watch?v=ItzDYtpA9TE)
+
+## What is R-Squared
+
+  - [Good link](http://www.fairlynerdy.com/what-is-r-squared/)
