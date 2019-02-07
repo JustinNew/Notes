@@ -38,3 +38,4 @@ Codes:
 ## What is R-Squared
 
   - [Good link](http://www.fairlynerdy.com/what-is-r-squared/)
+  - [Another link](https://people.duke.edu/~rnau/rsquared.htm)
