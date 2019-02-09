@@ -59,3 +59,8 @@ i <- 1
 l <- list()
 while(i <= nn) {l[[i]] <- as.list(xy.df[i,]); i <- i + 1}
 ```
+
+### Clear Environments
+```R
+rm(list = ls())
+```
