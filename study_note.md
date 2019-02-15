@@ -39,3 +39,7 @@ Codes:
 
   - [Good link](http://www.fairlynerdy.com/what-is-r-squared/)
   - [Another link](https://people.duke.edu/~rnau/rsquared.htm)
+
+## Forecasting
+
+  - The open book [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
