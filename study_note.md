@@ -43,3 +43,4 @@ Codes:
 ## Forecasting
 
   - The open book [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+  - [Short period time forecast discussion](https://stats.stackexchange.com/questions/135061/best-method-for-short-time-series)
