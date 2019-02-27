@@ -14,3 +14,8 @@ do
 
     echo "$yesterday_str"
 done
+
+start_date="2018-04-16"
+end_date="2018-05-13"
+
+python score_per_user.py --start_date "$start_date" --end_date "$end_date"
