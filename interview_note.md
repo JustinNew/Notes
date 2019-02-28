@@ -14,3 +14,5 @@ Do not be influenced by the passive interviwer.
 4. Doing GridSearchCV, do you get the same best hyperparameters if you try twice? Why different? 
 5. What if you believe there is an effect but your data and model says no? (Lost demand impact model)
 6. What part do you spend most of your time during your projects? (collect data, explore data, get signal/positive relationship, model, validation, A/B testing)
+
+## CatBoost vs XGBoost vs LightGBM
