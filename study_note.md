@@ -44,3 +44,9 @@ Codes:
 
   - The open book [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
   - [Short period time forecast discussion](https://stats.stackexchange.com/questions/135061/best-method-for-short-time-series)
+
+## Multi-armed Bandit Experimentation
+
+  - The original Multi-armed Bandit Algorithm, [20 lines of code that will beat A/B testing every time](http://stevehanov.ca/blog/index.php?id=132)
+  - [Why Multi-armed Bandit Algorithm is Not “Better” than A/B Testing](https://vwo.com/blog/multi-armed-bandit-algorithm/)
+  - []
