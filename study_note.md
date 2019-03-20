@@ -51,4 +51,3 @@ Codes:
     - The name "multi-armed bandit" describes a hypothetical experiment where you face several slot machines ("one-armed bandits") with potentially different expected payouts. You want to find the slot machine with the best payout rate, but you also want to maximize your winnings. The fundamental tension is between "exploiting" arms that have performed well in the past and "exploring" new or seemingly inferior arms in case they might perform even better.
   - The original Multi-armed Bandit Algorithm, [20 lines of code that will beat A/B testing every time](http://stevehanov.ca/blog/index.php?id=132)
   - [Why Multi-armed Bandit Algorithm is Not “Better” than A/B Testing](https://vwo.com/blog/multi-armed-bandit-algorithm/)
-  - []
