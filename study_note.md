@@ -52,3 +52,4 @@ Codes:
   - The original Multi-armed Bandit Algorithm, [20 lines of code that will beat A/B testing every time](http://stevehanov.ca/blog/index.php?id=132)
   - [Why Multi-armed Bandit Algorithm is Not “Better” than A/B Testing](https://vwo.com/blog/multi-armed-bandit-algorithm/)
   - [When to Run Bandit Tests Instead of A/B/n Tests](https://conversionxl.com/blog/bandit-tests/)
+  - [Advancing Mobile A/B Testing with Bayesian Multi-Armed Bandit](https://splitmetrics.com/blog/multi-armed-bandit-in-a-b-testing/)
