@@ -53,3 +53,4 @@ Codes:
   - [Why Multi-armed Bandit Algorithm is Not “Better” than A/B Testing](https://vwo.com/blog/multi-armed-bandit-algorithm/)
   - [When to Run Bandit Tests Instead of A/B/n Tests](https://conversionxl.com/blog/bandit-tests/)
   - [Advancing Mobile A/B Testing with Bayesian Multi-Armed Bandit](https://splitmetrics.com/blog/multi-armed-bandit-in-a-b-testing/)
+  - [Bayesian Multiarmed Bandit](https://dataorigami.net/blogs/napkin-folding/79031811-multi-armed-bandits)
