@@ -7,3 +7,9 @@ System Design
 
 ## Design to Shine: How to Ace Your Next System Design Interview
   - [Here is the link.](https://hackernoon.com/design-to-shine-how-to-ace-your-next-system-design-interview-2282bbf45c40)
+
+# Schema Design
+
+## Relational Database Schema Design Overview
+  
+  - [Here is the blog.](https://medium.com/@kimtnguyen/relational-database-schema-design-overview-70e447ff66f9)
