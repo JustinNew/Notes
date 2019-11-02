@@ -52,3 +52,12 @@ Basically,
 ```sh
 alias customer_command='original_command'
 ```
+
+### Run command and time
+  - Use **at**
+  - **-f**: file 
+  - The job will be run using **/bin/sh**
+```sh
+at now +45 minutes -f script_to_run.sh
+at now +8 hours -f script_to_run.sh
+```
