@@ -60,4 +60,7 @@ alias customer_command='original_command'
 ```sh
 at now +45 minutes -f script_to_run.sh
 at now +8 hours -f script_to_run.sh
+# 2019-11-02 16:22:00 
+# at -t [[CC]YY]MMDDhhmm[.SS] 
+at -t 201911021622 -f temp.sh
 ```
